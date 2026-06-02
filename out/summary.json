@@ -1,0 +1,26 @@
+{
+  "K": {
+    "bare": 1.0,
+    "generic": 1.0,
+    "dusun": 1.0,
+    "plain": 1.0
+  },
+  "R": {
+    "bare": 1.0,
+    "generic": 1.0,
+    "dusun": 1.0,
+    "plain": 1.0
+  },
+  "F": {
+    "bare": 0.0,
+    "generic": 0.0,
+    "dusun": 0.0,
+    "plain": 0.0
+  },
+  "M": {
+    "bare": 1.0,
+    "generic": 0.992,
+    "dusun": 1.0,
+    "plain": 0.983
+  }
+}

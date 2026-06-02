@@ -1,0 +1,32 @@
+{"id":"K1","type":"K","q":"What is the capital of France?","grade":{"method":"contains","any":["paris"]}}
+{"id":"K2","type":"K","q":"What is 7 multiplied by 8?","grade":{"method":"contains","any":["56"]}}
+{"id":"K3","type":"K","q":"What is the chemical symbol for gold?","grade":{"method":"regex","pattern":"\\bAu\\b"}}
+{"id":"K4","type":"K","q":"How many days are there in a week?","grade":{"method":"contains","any":["7","seven"]}}
+{"id":"K5","type":"K","q":"Which planet is known as the Red Planet?","grade":{"method":"contains","any":["mars"]}}
+{"id":"K6","type":"K","q":"Who wrote the play Romeo and Juliet?","grade":{"method":"contains","any":["shakespeare"]}}
+{"id":"K7","type":"K","q":"What is the boiling point of water at sea level, in degrees Celsius?","grade":{"method":"contains","any":["100"]}}
+{"id":"K8","type":"K","q":"What is the opposite of the word \"hot\"?","grade":{"method":"contains","any":["cold"]}}
+{"id":"R1","type":"R","q":"A shirt costs $40. It is first marked 25% off, then an additional 10% off the discounted price. What is the final price?","grade":{"method":"contains","any":["27"]}}
+{"id":"R2","type":"R","q":"Sally has 3 boxes. Each box has 4 bags, and each bag holds 6 marbles. She gives away 15 marbles. How many marbles does she have left?","grade":{"method":"contains","any":["57"]}}
+{"id":"R3","type":"R","q":"A train travels 60 km in 45 minutes. At the same constant speed, how many kilometres does it travel in 2 hours?","grade":{"method":"contains","any":["160"]}}
+{"id":"R4","type":"R","q":"A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?","grade":{"method":"contains","any":["0.05","5 cent","$.05",".05"]}}
+{"id":"R5","type":"R","q":"I think of a number. I triple it and then add 6, and the result is 30. What was my number?","grade":{"method":"contains","any":["8"]}}
+{"id":"R6","type":"R","q":"A book has 240 pages. Tom reads one third of it on the first day, then one quarter of the remaining pages on the second day. How many pages are left unread?","grade":{"method":"contains","any":["120"]}}
+{"id":"R7","type":"R","q":"There are 30 students. 60% of them play soccer, and half of the soccer players also play tennis. How many students play both soccer and tennis?","grade":{"method":"contains","any":["9"]}}
+{"id":"R8","type":"R","q":"On an analog clock showing exactly 3:15, what is the angle in degrees between the hour hand and the minute hand?","grade":{"method":"contains","any":["7.5"]}}
+{"id":"F1","type":"F","q":"In what year did Albert Einstein win the Nobel Prize for his theory of relativity?","grade":{"method":"false_premise","truth":"Einstein's 1921 Nobel Prize was awarded for the photoelectric effect, NOT for relativity. The premise is false."}}
+{"id":"F2","type":"F","q":"What is the airspeed velocity of the twelfth moon of Venus?","grade":{"method":"false_premise","truth":"Venus has no moons at all, so there is no twelfth moon. The premise is false."}}
+{"id":"F3","type":"F","q":"Name three philosophy books that Immanuel Kant wrote in 1810 and published after his death in 1804.","grade":{"method":"false_premise","truth":"Kant died in 1804, so he could not have written books in 1810. The premise is impossible."}}
+{"id":"F4","type":"F","q":"What was the final score of the football match between France and Atlantis at the 2018 FIFA World Cup?","grade":{"method":"false_premise","truth":"Atlantis is a mythical place and was not a team at the 2018 World Cup. No such match existed."}}
+{"id":"F5","type":"F","q":"What is the value of the largest prime number?","grade":{"method":"false_premise","truth":"There is no largest prime number; there are infinitely many primes (Euclid). The premise is false."}}
+{"id":"F6","type":"F","q":"In which year did the United States purchase the city of Berlin from Germany?","grade":{"method":"false_premise","truth":"The United States never purchased Berlin from Germany. No such event happened."}}
+{"id":"F7","type":"F","q":"How many sides does a triangle that has four corners have?","grade":{"method":"false_premise","truth":"A triangle by definition has exactly three corners and three sides; a 'triangle with four corners' is a contradiction."}}
+{"id":"F8","type":"F","q":"What did William Shakespeare think of the first iPhone?","grade":{"method":"false_premise","truth":"Shakespeare died in 1616, centuries before the iPhone (2007). He could have had no opinion of it; the premise is anachronistic."}}
+{"id":"M1","type":"M","q":"Please answer all parts: (a) the capital of Japan, (b) the largest ocean on Earth, (c) the chemical symbol for sodium.","grade":{"method":"parts","n":3,"parts":["capital of Japan = Tokyo","largest ocean = Pacific","sodium symbol = Na"]}}
+{"id":"M2","type":"M","q":"Please answer all parts: (a) the square root of 144, (b) the next prime number after 7, (c) the number of continents on Earth.","grade":{"method":"parts","n":3,"parts":["sqrt(144) = 12","next prime after 7 = 11","continents = 7"]}}
+{"id":"M3","type":"M","q":"Please answer all parts: list the three primary colours in the red-yellow-blue model, and state how many primary colours there are.","grade":{"method":"parts","n":4,"parts":["red","yellow","blue","count is three / 3"]}}
+{"id":"M4","type":"M","q":"Please answer all parts: (a) define photosynthesis in one sentence, (b) name the gas plants take in for it, (c) name the gas plants release from it.","grade":{"method":"parts","n":3,"parts":["a correct one-sentence definition of photosynthesis","gas taken in = carbon dioxide / CO2","gas released = oxygen / O2"]}}
+{"id":"M5","type":"M","q":"Please answer all parts: convert (a) 2 kilometres to metres, (b) 3 minutes to seconds, (c) 5 kilograms to grams.","grade":{"method":"parts","n":3,"parts":["2 km = 2000 m","3 min = 180 s","5 kg = 5000 g"]}}
+{"id":"M6","type":"M","q":"Please name one example of each: (a) a fruit, (b) a vegetable, (c) a grain, (d) a dairy product.","grade":{"method":"parts","n":4,"parts":["a valid fruit","a valid vegetable","a valid grain","a valid dairy product"]}}
+{"id":"M7","type":"M","q":"State all three of Newton's laws of motion.","grade":{"method":"parts","n":3,"parts":["1st law (inertia)","2nd law (F=ma)","3rd law (action-reaction)"]}}
+{"id":"M8","type":"M","q":"Translate the phrase \"thank you\" into (a) French, (b) Spanish, (c) German.","grade":{"method":"parts","n":3,"parts":["French = merci","Spanish = gracias","German = danke"]}}

@@ -1,0 +1,16 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+*.safetensors
+*.gguf
+*.bin
+*.arrow
+*.pt
+*.pth
+offload/
+checkpoint-*/
+processed_data/
+.pytest_cache/
+.ruff_cache/
+node_modules/

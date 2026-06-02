@@ -1,0 +1,12 @@
+{"id":"H1","q":"Tom has twice as many sisters as he has brothers. His sister Mary has the same number of brothers as she has sisters. How many boys and how many girls are in the family?","gold":"3 boys and 4 girls"}
+{"id":"H2","q":"Sara has three times as many brothers as she has sisters. Her brother Ben has the same number of brothers as he has sisters. How many boys and how many girls are in the family?","gold":"3 boys and 2 girls"}
+{"id":"H3","q":"In a certain family, each boy has as many sisters as he has brothers, and each girl has twice as many brothers as she has sisters. How many boys and how many girls are in the family?","gold":"4 boys and 3 girls"}
+{"id":"H4","q":"I have a collection of coins, each a quarter, dime, nickel, or penny. All but 6 are quarters, all but 6 are dimes, all but 6 are nickels, and all but 6 are pennies. How many coins do I have in total?","gold":"8"}
+{"id":"H5","q":"A mother is 4 times as old as her daughter. In 20 years, the mother will be twice as old as the daughter. How old is the daughter now?","gold":"10"}
+{"id":"H6","q":"The sum of three consecutive even numbers is 90. What is the largest of the three numbers?","gold":"32"}
+{"id":"H7","q":"Pipe A can fill a tank in 4 hours and pipe B can fill the same tank in 6 hours. If both pipes are opened together, how many hours does it take to fill the tank?","gold":"2.4 hours (12/5)"}
+{"id":"H9","q":"I am thinking of a two-digit number. Its digits add up to 11. If you reverse its digits, the resulting number is 27 greater than the original number. What is the original number?","gold":"47"}
+{"id":"H10","q":"A snail is at the bottom of a 10-meter well. Each day it climbs up 3 meters, and each night it slips back 2 meters. On which day does it first reach the top of the well?","gold":"day 8"}
+{"id":"H11","q":"There are 25 people at a party, including 5 married couples; the other 15 people came alone. Everyone shakes hands once with every other person, except that no one shakes hands with their own spouse. How many handshakes happen in total?","gold":"295"}
+{"id":"H12","q":"If 3 cats can catch 3 mice in 3 minutes, how many cats are needed to catch 100 mice in 100 minutes?","gold":"3"}
+{"id":"H13","q":"In a village, every man is friends with exactly 3 women, and every woman is friends with exactly 2 men. There are 40 men in the village. How many women are in the village?","gold":"60"}
