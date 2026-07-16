@@ -106,4 +106,18 @@ Abstention is therefore first-class for BOTH arms — the comparison is fair.
 ---
 ## RESULTS (appended after running — DO NOT edit the above)
 
-(pending)
+**Engine freeze (stamped at launch, 2026-07-16 evening):** dusun-engine @ `95949df`
+(v0.22 — file_size verb; v0.21 model default `claude-opus-4-8`; v0.20 adaptive arbiter).
+Engine working tree clean at launch (only CLAUDE.md carried an uncommitted doc note).
+Known open engine issue accepted into the run: a stochastic arbiter cap-hit
+(1-of-2 occurrence, `runs/20260716_182735.txt`) — if it fires, the item grades as
+unanswered and counts against the pre-registered availability metric, as designed.
+
+**Launch:** smoke (2 items, 10 rows) PASSED 2026-07-16 ~23:15 — all rows ok, FINAL
+extraction verified on real arbiter output, both dusun items CORRECT. Full run
+(scheduled task `bench_full`) fired 2026-07-16 ~23:20; item-interleaved, resumable
+(smoke rows count as done). Interim readings during the run are DESCRIPTIVE ONLY —
+the H1/H2/H3 verdicts are computed once, at full N, per the criteria above (no
+optional stopping).
+
+(full-run results pending)
