@@ -14,3 +14,4 @@ processed_data/
 .pytest_cache/
 .ruff_cache/
 node_modules/
+bench_data/
