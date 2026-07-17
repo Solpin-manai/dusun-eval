@@ -166,6 +166,19 @@ def main():
                     idx + 1, len(items), it["id"], arm, k,
                     "ok" if err is None else "ERR:" + str(err)[:60],
                     time.time() - t0), flush=True)
+                # FAIL-FAST on the hourly spend-limit (2026-07-17): a bare call
+                # returns err "…spend limit…"; a dusun call returns non-empty but
+                # HOLLOW text (all faculties errored → "0/3 faculties returned").
+                # Abort the pass immediately so the supervisor can re-clean the
+                # just-emitted bad row and retry after the window resets, instead
+                # of grinding the whole remaining bank into hollow rows.
+                low_err = str(err).lower() if err else ""
+                low_txt = (text or "").lower()
+                if ("spend limit" in low_err or "spend limit" in low_txt
+                        or "0/3 faculties returned" in low_txt):
+                    print("SPEND-LIMIT/hollow detected -- aborting pass for "
+                          "supervisor retry.", flush=True)
+                    return
     print("bench_runner: complete.", flush=True)
 
 
