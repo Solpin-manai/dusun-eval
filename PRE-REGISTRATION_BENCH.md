@@ -208,3 +208,39 @@ it pushed BOTH arms to ~50% abstention, far above default-prompt behavior).
 - The measured, non-directional facts: 110/110 availability with 0 stubs (v0.20 held);
   32% math arbiter-partials (the real engineering debt); a weak LLM judge hid 15
   hallucinations until the pre-registered validation caught it.
+
+## ADDENDUM 2026-07-17 — grader triangulation; the judge exonerated, the PARSER convicted
+
+**Correction of attribution (referent-first, applied to this eval's own harness).** The
+owner asked to re-judge with Opus 4.8 in place of Haiku. First triangulation returned an
+impossible result: **Haiku-vs-Opus agreement 48/48 (100%)**, both marking flat
+contradictions CORRECT ("Drexel" vs gold "NYU"; "14 May 1643" vs gold "20 Oct 1620").
+Two different models do not make identical errors 48/48 — the divergence-is-the-finding
+instinct pointed at the harness, and the harness confessed: `bench_grade.py`'s verdict
+scan checked `"CORRECT" in reply` BEFORE `"INCORRECT"`, and **CORRECT is a substring of
+INCORRECT** — every negative judgment from either model was parsed as CORRECT. The
+"systematically lenient Haiku judge" in the RESULTS above is therefore **partially
+exonerated**: the pre-registered 15-sample validation caught the SYMPTOM (wrong grades)
+but blamed the wrong organ. The hand re-grade (which never touched the parser) stands.
+
+**True triangulation (parser fixed, Opus 4.8 judge, `out/bench_graded_opus2.jsonl`):**
+hand-vs-opus2 agreement **45/48 (94%)**, JUDGE_FAILED 0. All 3 disagreements are the
+borderline rulings already disclosed in the RESULTS: Khatuni/Khottuni transliteration
+(×2 arms; hand=CORRECT, opus2=INCORRECT — kept CORRECT, identical in both arms so no
+differential effect) and the ISKA karate/kickboxing entity match (opus2 itself split
+across two IDENTICAL predictions — judge sampling noise; kept CORRECT both arms for
+consistency).
+
+**H1 robustness across graders (same direction, neither significant, n=50):**
+
+| grader | bare C/I/NA | dusun C/I/NA | discordant I (bare/dusun) | McNemar p |
+|---|---|---|---|---|
+| hand (blind) | 14/9/27 | 19/6/25 | 6/3 | 0.508 |
+| opus2 (blind) | 12/11/27 | 18/7/25 | 7/3 | 0.344 |
+
+**Verdict unchanged and now grader-robust: H1 directionally supported, not significant** —
+dusun fewer hallucinations AND more correct answers under both independent graders.
+Meta-lesson recorded: the eval's grading harness itself produced a perfectly-agreeing,
+perfectly-wrong representation until two independent readings of the same referent were
+compared — L4 triangulation working on the eval's own instruments. Judge validation and
+substring-safe verdict parsing are now both mandatory harness features.

@@ -1,0 +1,280 @@
+{"id": "aime25-0", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 9.6, "pred": "70", "verdict": "CORRECT"}
+{"id": "aime25-0", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 141.4, "pred": "70", "verdict": "CORRECT"}
+{"id": "aime25-1", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 60.5, "pred": "588", "verdict": "CORRECT"}
+{"id": "aime25-1", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 161.7, "pred": "588", "verdict": "CORRECT"}
+{"id": "aime25-2", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 14.2, "pred": "16", "verdict": "CORRECT"}
+{"id": "aime25-2", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 129.0, "pred": "16", "verdict": "CORRECT"}
+{"id": "aime25-3", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 14.0, "pred": "117", "verdict": "CORRECT"}
+{"id": "aime25-3", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 140.8, "pred": "117", "verdict": "CORRECT"}
+{"id": "aime25-4", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 43.4, "pred": "279", "verdict": "CORRECT"}
+{"id": "aime25-4", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 237.5, "pred": "279", "verdict": "CORRECT"}
+{"id": "aime25-5", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 13.1, "pred": "504", "verdict": "CORRECT"}
+{"id": "aime25-5", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 111.5, "pred": "504", "verdict": "CORRECT"}
+{"id": "aime25-6", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 66.5, "pred": "821", "verdict": "CORRECT"}
+{"id": "aime25-6", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 262.7, "pred": "821", "verdict": "CORRECT"}
+{"id": "aime25-7", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 16.5, "pred": "77", "verdict": "CORRECT"}
+{"id": "aime25-7", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 134.0, "pred": "77", "verdict": "CORRECT"}
+{"id": "aime25-8", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 146.4, "pred": "62", "verdict": "CORRECT"}
+{"id": "aime25-8", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 294.7, "pred": "62", "verdict": "CORRECT"}
+{"id": "aime25-9", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 12.3, "pred": "81", "verdict": "CORRECT"}
+{"id": "aime25-9", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 143.5, "pred": "81", "verdict": "CORRECT"}
+{"id": "aime25-10", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 43.6, "pred": "259", "verdict": "CORRECT"}
+{"id": "aime25-10", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 342.3, "pred": "259", "verdict": "CORRECT"}
+{"id": "aime25-11", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 28.7, "pred": "510", "verdict": "CORRECT"}
+{"id": "aime25-11", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 186.6, "pred": "510", "verdict": "CORRECT"}
+{"id": "aime25-12", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 198.9, "pred": "204", "verdict": "CORRECT"}
+{"id": "aime25-12", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 667.9, "pred": "", "verdict": "INCORRECT"}
+{"id": "aime25-13", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 198.0, "pred": "60", "verdict": "CORRECT"}
+{"id": "aime25-13", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 352.9, "pred": "60", "verdict": "CORRECT"}
+{"id": "aime25-14", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 16.0, "pred": "735", "verdict": "CORRECT"}
+{"id": "aime25-14", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 213.7, "pred": "", "verdict": "INCORRECT"}
+{"id": "aime25-15", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 13.0, "pred": "468", "verdict": "CORRECT"}
+{"id": "aime25-15", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 113.6, "pred": "468", "verdict": "CORRECT"}
+{"id": "aime25-16", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 9.5, "pred": "49", "verdict": "CORRECT"}
+{"id": "aime25-16", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 105.4, "pred": "49", "verdict": "CORRECT"}
+{"id": "aime25-17", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 5.7, "pred": "82", "verdict": "CORRECT"}
+{"id": "aime25-17", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 143.2, "pred": "82", "verdict": "CORRECT"}
+{"id": "aime25-18", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 13.3, "pred": "106", "verdict": "CORRECT"}
+{"id": "aime25-18", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 123.0, "pred": "106", "verdict": "CORRECT"}
+{"id": "aime25-19", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 15.5, "pred": "336", "verdict": "CORRECT"}
+{"id": "aime25-19", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 181.1, "pred": "336", "verdict": "CORRECT"}
+{"id": "aime25-20", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 15.8, "pred": "293", "verdict": "CORRECT"}
+{"id": "aime25-20", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 138.8, "pred": "293", "verdict": "CORRECT"}
+{"id": "aime25-21", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 14.2, "pred": "237", "verdict": "CORRECT"}
+{"id": "aime25-21", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 126.8, "pred": "237", "verdict": "CORRECT"}
+{"id": "aime25-22", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 6.2, "pred": "610", "verdict": "CORRECT"}
+{"id": "aime25-22", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 156.8, "pred": "610", "verdict": "CORRECT"}
+{"id": "aime25-23", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 21.7, "pred": "149", "verdict": "CORRECT"}
+{"id": "aime25-23", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 175.2, "pred": "149", "verdict": "CORRECT"}
+{"id": "aime25-24", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 17.3, "pred": "907", "verdict": "CORRECT"}
+{"id": "aime25-24", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 152.3, "pred": "907", "verdict": "CORRECT"}
+{"id": "aime25-25", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 25.0, "pred": "113", "verdict": "CORRECT"}
+{"id": "aime25-25", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 167.7, "pred": "113", "verdict": "CORRECT"}
+{"id": "aime25-26", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 23.9, "pred": "19", "verdict": "CORRECT"}
+{"id": "aime25-26", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 174.2, "pred": "19", "verdict": "CORRECT"}
+{"id": "aime25-27", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 350.5, "pred": "248", "verdict": "CORRECT"}
+{"id": "aime25-27", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 1492.6, "pred": "", "verdict": "INCORRECT"}
+{"id": "aime25-28", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 22.9, "pred": "104", "verdict": "CORRECT"}
+{"id": "aime25-28", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 153.9, "pred": "104", "verdict": "CORRECT"}
+{"id": "aime25-29", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 8.8, "pred": "240", "verdict": "CORRECT"}
+{"id": "aime25-29", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 112.3, "pred": "240", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-4", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 15.2, "pred": "33", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-4", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 125.3, "pred": "33", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-12", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 12.1, "pred": "23", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-12", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 117.1, "pred": "23", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-4", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 7.4, "pred": "116", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-4", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 98.1, "pred": "116", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-3", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 9.7, "pred": "809", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-3", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 108.7, "pred": "809", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-8", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 38.2, "pred": "197", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-8", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 184.7, "pred": "197", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-12", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 10.6, "pred": "385", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-12", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 111.9, "pred": "385", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-11", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 78.2, "pred": "371", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-11", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 221.7, "pred": "371", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-11", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 8.1, "pred": "601", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-11", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 122.5, "pred": "601", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-2", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 9.0, "pred": "25", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-2", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 123.3, "pred": "25", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-6", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 11.8, "pred": "55", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-6", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 111.1, "pred": "55", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-7", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 13.4, "pred": "540", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-7", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 102.1, "pred": "540", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-3", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 5.7, "pred": "45", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-3", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 133.0, "pred": "45", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-1", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 9.2, "pred": "204", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-1", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 101.1, "pred": "204", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-7", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 18.5, "pred": "699", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-7", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 110.1, "pred": "699", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-6", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 9.2, "pred": "294", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-6", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 108.3, "pred": "294", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-13", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 17.9, "pred": "110", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-13", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 126.4, "pred": "110", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-15", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 11.4, "pred": "721", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-15", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 131.2, "pred": "721", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-15", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 9.8, "pred": "315**", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-15", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 117.3, "pred": "315", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-10", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 26.2, "pred": "468", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-10", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 152.3, "pred": "468", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-9", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 10.4, "pred": "902", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-9", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 186.5, "pred": "", "verdict": "INCORRECT"}
+{"id": "aime24-2024-II-14", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 11.8, "pred": "211", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-14", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 161.3, "pred": "211", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-5", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 10.8, "pred": "80", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-5", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 203.9, "pred": "80", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-9", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 16.7, "pred": "480", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-9", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 162.5, "pred": "480", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-2", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 14.3, "pred": "236", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-2", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 186.0, "pred": "236", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-1", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 15.6, "pred": "73", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-1", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 115.0, "pred": "73", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-10", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 62.8, "pred": "113", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-10", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 135.4, "pred": "113", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-8", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 23.9, "pred": "127", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-8", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 170.5, "pred": "127", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-14", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 19.7, "pred": "104", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-14", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 118.3, "pred": "104", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-5", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 26.7, "pred": "104", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-5", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 188.9, "pred": "104", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-13", "cls": "math", "arm": "bare", "ok": true, "err": null, "secs": 14.6, "pred": "321", "verdict": "CORRECT"}
+{"id": "aime24-2024-II-13", "cls": "math", "arm": "dusun", "ok": true, "err": null, "secs": 130.9, "pred": "321", "verdict": "CORRECT"}
+{"id": "sqa-59", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 6.7, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-59", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 113.7, "pred": "Norberto Raffo", "verdict": "CORRECT"}
+{"id": "sqa-203", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 6.2, "pred": "November 4, 2020", "verdict": "INCORRECT"}
+{"id": "sqa-203", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 114.6, "pred": "November 4, 2020", "verdict": "INCORRECT"}
+{"id": "sqa-259", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 6.2, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-259", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 106.0, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-405", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 5.6, "pred": "The International Sport Karate Association (ISKA)", "verdict": "INCORRECT"}
+{"id": "sqa-405", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 98.1, "pred": "The International Sport Karate Association (ISKA)", "verdict": "CORRECT"}
+{"id": "sqa-415", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 9.1, "pred": "The northeast coast", "verdict": "INCORRECT"}
+{"id": "sqa-415", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 92.6, "pred": "The northern coast — the island of Solstheim, in the Sea of Ghosts (off northwest Vvardenfell)", "verdict": "CORRECT"}
+{"id": "sqa-439", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 6.8, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-439", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 107.7, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-668", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.8, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-668", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 120.3, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-718", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 6.7, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-718", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 91.8, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-882", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 9.9, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-882", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 96.9, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-968", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 8.6, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-968", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 94.3, "pred": "September 2016", "verdict": "INCORRECT"}
+{"id": "sqa-1038", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 9.5, "pred": "5 feet 10 inches (5'10\")", "verdict": "CORRECT"}
+{"id": "sqa-1038", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 102.0, "pred": "approximately 5 feet 11 inches (~1.80 m)", "verdict": "INCORRECT"}
+{"id": "sqa-1180", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.4, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1180", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 90.9, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1269", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 8.1, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1269", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 96.9, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1324", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.2, "pred": "Drexel University", "verdict": "INCORRECT"}
+{"id": "sqa-1324", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 119.6, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1488", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 6.8, "pred": "1838", "verdict": "CORRECT"}
+{"id": "sqa-1488", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 108.1, "pred": "1838", "verdict": "CORRECT"}
+{"id": "sqa-1510", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 5.4, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1510", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 100.2, "pred": "Girvani Rajya Lakshmi Devi Rana and Surangana Rajya Lakshmi Devi Rana", "verdict": "CORRECT"}
+{"id": "sqa-1598", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.1, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1598", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 103.0, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1618", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.7, "pred": "Watertown, New York", "verdict": "INCORRECT"}
+{"id": "sqa-1618", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 100.2, "pred": "Toronto, Ontario, Canada", "verdict": "CORRECT"}
+{"id": "sqa-1687", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 8.9, "pred": "March 23, 1932", "verdict": "CORRECT"}
+{"id": "sqa-1687", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 104.0, "pred": "23 March 1932", "verdict": "CORRECT"}
+{"id": "sqa-1709", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 10.4, "pred": "Swarnamukhi River", "verdict": "INCORRECT"}
+{"id": "sqa-1709", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 105.3, "pred": "Swarnamukhi River", "verdict": "INCORRECT"}
+{"id": "sqa-1747", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.2, "pred": "Neon White", "verdict": "CORRECT"}
+{"id": "sqa-1747", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 111.6, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1782", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 8.3, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1782", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 105.7, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1821", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 8.7, "pred": "20 August 2001", "verdict": "INCORRECT"}
+{"id": "sqa-1821", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 124.5, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-1860", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 9.0, "pred": "1.0.6", "verdict": "INCORRECT"}
+{"id": "sqa-1860", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 141.0, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2031", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 12.0, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2031", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 123.3, "pred": "Season 2", "verdict": "CORRECT"}
+{"id": "sqa-2198", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 10.3, "pred": "Vsevolod", "verdict": "CORRECT"}
+{"id": "sqa-2198", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 123.3, "pred": "Vsevolod", "verdict": "CORRECT"}
+{"id": "sqa-2221", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 9.0, "pred": "1880", "verdict": "CORRECT"}
+{"id": "sqa-2221", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 94.6, "pred": "1880", "verdict": "CORRECT"}
+{"id": "sqa-2281", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 6.1, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2281", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 104.7, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2295", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 6.7, "pred": "1949", "verdict": "CORRECT"}
+{"id": "sqa-2295", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 95.7, "pred": "1949", "verdict": "CORRECT"}
+{"id": "sqa-2330", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.2, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2330", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 107.8, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2395", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.6, "pred": "Nigo", "verdict": "CORRECT"}
+{"id": "sqa-2395", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 88.2, "pred": "Nigo (Tomoaki Nagao)", "verdict": "CORRECT"}
+{"id": "sqa-2463", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 5.4, "pred": "19 July 1970", "verdict": "CORRECT"}
+{"id": "sqa-2463", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 91.8, "pred": "19 July 1970", "verdict": "CORRECT"}
+{"id": "sqa-2466", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 6.5, "pred": "14 May 1643", "verdict": "INCORRECT"}
+{"id": "sqa-2466", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 107.7, "pred": "14 May 1643", "verdict": "INCORRECT"}
+{"id": "sqa-2496", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 5.7, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2496", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 97.2, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2735", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.4, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2735", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 85.5, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2756", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 16.3, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2756", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 133.9, "pred": "Bo'az Klartag and Antti Kupiainen", "verdict": "INCORRECT"}
+{"id": "sqa-2893", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 8.7, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2893", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 106.2, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2964", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.0, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-2964", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 93.9, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3030", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 5.7, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3030", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 98.7, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3048", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 12.2, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3048", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 112.5, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3068", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 9.8, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3068", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 102.6, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3235", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 8.0, "pred": "Khottuni", "verdict": "INCORRECT"}
+{"id": "sqa-3235", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 101.3, "pred": "Khottuni", "verdict": "INCORRECT"}
+{"id": "sqa-3419", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.4, "pred": "1757", "verdict": "INCORRECT"}
+{"id": "sqa-3419", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 98.7, "pred": "1761", "verdict": "CORRECT"}
+{"id": "sqa-3722", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 9.9, "pred": "Peter Baker", "verdict": "CORRECT"}
+{"id": "sqa-3722", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 99.0, "pred": "Peter Baker", "verdict": "CORRECT"}
+{"id": "sqa-3735", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 5.4, "pred": "February 15, 1956", "verdict": "CORRECT"}
+{"id": "sqa-3735", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 110.4, "pred": "February 15, 1956", "verdict": "CORRECT"}
+{"id": "sqa-3783", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 8.5, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3783", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 95.6, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3797", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 6.1, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3797", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 132.4, "pred": "Little Caesar and the Consuls", "verdict": "CORRECT"}
+{"id": "sqa-3905", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.9, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-3905", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 98.1, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-4149", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 7.6, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-4149", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 107.1, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED"}
+{"id": "sqa-4225", "cls": "sqa", "arm": "bare", "ok": true, "err": null, "secs": 8.5, "pred": "Shemar Moore", "verdict": "CORRECT"}
+{"id": "sqa-4225", "cls": "sqa", "arm": "dusun", "ok": true, "err": null, "secs": 98.8, "pred": "Shemar Moore", "verdict": "CORRECT"}
+{"id": "aime24-2024-I-1", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "204", "samples": ["204", "204", "204"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-10", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "113", "samples": ["113", "113", "113"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-11", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "371", "samples": ["371", "371", "371"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-12", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "385", "samples": ["385", "385", "385"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-13", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "110", "samples": ["110", "110", "110"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-14", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "104", "samples": ["104", "104", "104"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-15", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "721", "samples": ["721", "721", "721"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-2", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "25", "samples": ["25", "25", "25"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-3", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "809", "samples": ["809", "809", "809"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-4", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "116", "samples": ["116", "116", "116"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-5", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "104", "samples": ["104", "104", "104"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-6", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "294", "samples": ["294", "294", "294"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-7", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "540", "samples": ["540", "540", "540"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-8", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "197", "samples": ["197", "197", "197"], "verdict": "CORRECT"}
+{"id": "aime24-2024-I-9", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "480", "samples": ["480", "480", "480"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-1", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "73", "samples": ["73", "73", "73"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-10", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "468", "samples": ["312", "468", "468"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-11", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "601", "samples": ["601", "601", "601"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-12", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "23", "samples": ["23", "23", "23"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-13", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "321", "samples": ["321", "321", "321"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-14", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "211", "samples": ["211", "211", "211"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-15", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "315", "samples": ["315", "315", "315"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-2", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "236", "samples": ["236", "236", "236"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-3", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "45", "samples": ["45", "45", "45"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-4", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "33", "samples": ["33", "33", "33"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-5", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "80", "samples": ["80", "80", "80"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-6", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "55", "samples": ["55", "55", "55"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-7", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "699", "samples": ["699", "699", "699"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-8", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "127", "samples": ["127", "127", "127"], "verdict": "CORRECT"}
+{"id": "aime24-2024-II-9", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "902", "samples": ["902", "902", "902"], "verdict": "CORRECT"}
+{"id": "aime25-0", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "70", "samples": ["70", "70", "70"], "verdict": "CORRECT"}
+{"id": "aime25-1", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "588", "samples": ["588", "588", "588"], "verdict": "CORRECT"}
+{"id": "aime25-10", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "259", "samples": ["259", "259", "259"], "verdict": "CORRECT"}
+{"id": "aime25-11", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "510", "samples": ["510", "510", "510"], "verdict": "CORRECT"}
+{"id": "aime25-12", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "204", "samples": ["204", "204", "204"], "verdict": "CORRECT"}
+{"id": "aime25-13", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "60", "samples": ["60", "60", "60"], "verdict": "CORRECT"}
+{"id": "aime25-14", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "735", "samples": ["735", "735", "735"], "verdict": "CORRECT"}
+{"id": "aime25-15", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "468", "samples": ["468", "468", "468"], "verdict": "CORRECT"}
+{"id": "aime25-16", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "49", "samples": ["49", "49", "49"], "verdict": "CORRECT"}
+{"id": "aime25-17", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "82", "samples": ["82", "82", "82"], "verdict": "CORRECT"}
+{"id": "aime25-18", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "106", "samples": ["106", "106", "106"], "verdict": "CORRECT"}
+{"id": "aime25-19", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "336", "samples": ["336", "336", "336"], "verdict": "CORRECT"}
+{"id": "aime25-2", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "16", "samples": ["16", "16", "16"], "verdict": "CORRECT"}
+{"id": "aime25-20", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "293", "samples": ["293", "293", "293"], "verdict": "CORRECT"}
+{"id": "aime25-21", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "237", "samples": ["237", "237", "237"], "verdict": "CORRECT"}
+{"id": "aime25-22", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "610", "samples": ["610", "610", "610"], "verdict": "CORRECT"}
+{"id": "aime25-23", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "149", "samples": ["149", "149", "149"], "verdict": "CORRECT"}
+{"id": "aime25-24", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "907", "samples": ["907", "907", "907"], "verdict": "CORRECT"}
+{"id": "aime25-25", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "113", "samples": ["113", "113", "113"], "verdict": "CORRECT"}
+{"id": "aime25-26", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "19", "samples": ["19", "19", "19"], "verdict": "CORRECT"}
+{"id": "aime25-27", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "248", "samples": ["248", "248", "248"], "verdict": "CORRECT"}
+{"id": "aime25-28", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "104", "samples": ["104", "104", "104"], "verdict": "CORRECT"}
+{"id": "aime25-29", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "240", "samples": ["240", "240", "240"], "verdict": "CORRECT"}
+{"id": "aime25-3", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "117", "samples": ["117", "117", "117"], "verdict": "CORRECT"}
+{"id": "aime25-4", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "279", "samples": ["279", "279", "279"], "verdict": "CORRECT"}
+{"id": "aime25-5", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "504", "samples": ["504", "504", "504"], "verdict": "CORRECT"}
+{"id": "aime25-6", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "821", "samples": ["821", "821", "821"], "verdict": "CORRECT"}
+{"id": "aime25-7", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "77", "samples": ["77", "77", "77"], "verdict": "CORRECT"}
+{"id": "aime25-8", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "62", "samples": ["62", "62", "62"], "verdict": "CORRECT"}
+{"id": "aime25-9", "cls": "math", "arm": "selfcons3", "ok": true, "err": null, "pred": "81", "samples": ["81", "81", "66"], "verdict": "CORRECT"}

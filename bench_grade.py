@@ -63,9 +63,14 @@ def judge_sqa(question: str, gold: str, pred: str) -> str:
     try:
         p = subprocess.run(cmd, input=JUDGE_SYS + "\n\n" + user, capture_output=True,
                            text=True, encoding="utf-8", errors="replace", timeout=300)
-        w = (p.stdout or "").strip().upper()
-        for v in ("CORRECT", "INCORRECT", "NOT_ATTEMPTED"):
-            if v in w.replace(" ", "_"):
+        w = (p.stdout or "").strip().upper().replace(" ", "_")
+        # ORDER MATTERS: "CORRECT" is a substring of "INCORRECT". The original
+        # ordering parsed every INCORRECT verdict as CORRECT — inverting all
+        # negative judgments (caught 2026-07-17 by grader triangulation: two
+        # different judge models "agreed" 48/48 including on flat contradictions;
+        # the impossible agreement was this parser, not the judges).
+        for v in ("NOT_ATTEMPTED", "INCORRECT", "CORRECT"):
+            if v in w:
                 return v
     except Exception:
         pass
@@ -88,6 +93,17 @@ def norm_int(s: str) -> str:
 
 
 def main():
+    # optional: --judge <model> --suffix <tag>  (re-judge with a different model,
+    # writing bench_graded_<tag>.jsonl / bench_summary_<tag>.json; defaults unchanged)
+    global JUDGE_MODEL, GRADED, SUMMARY
+    args = sys.argv[1:]
+    if "--judge" in args:
+        JUDGE_MODEL = args[args.index("--judge") + 1]
+    if "--suffix" in args:
+        s = args[args.index("--suffix") + 1]
+        GRADED = HERE / "out" / ("bench_graded_%s.jsonl" % s)
+        SUMMARY = HERE / "out" / ("bench_summary_%s.json" % s)
+    print("judge=%s -> %s" % (JUDGE_MODEL, GRADED.name), flush=True)
     gold = {json.loads(l)["id"]: json.loads(l) for l in
             BANK.read_text(encoding="utf-8").splitlines()}
     rows = [json.loads(l) for l in RAW.read_text(encoding="utf-8").splitlines()]
