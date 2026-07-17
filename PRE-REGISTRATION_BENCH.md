@@ -244,3 +244,13 @@ Meta-lesson recorded: the eval's grading harness itself produced a perfectly-agr
 perfectly-wrong representation until two independent readings of the same referent were
 compared — L4 triangulation working on the eval's own instruments. Judge validation and
 substring-safe verdict parsing are now both mandatory harness features.
+
+## NAMING (2026-07-17, owner-ruled) — what this eval measured has a name: TAHKIK
+
+This benchmark named the engine's function **by exclusion**: not capability (H2 at
+ceiling, 0 council reasoning misses), not knowledge (both arms hallucinated the same
+facts), but **verification** — beliefs returned at their earned grade. The owner ruled
+the concept-name: **tahkik** (opposite: taklid, the LLM's native inherited-assertion
+mode). Recorded in `codex/lexicon/tahkik.md` (the entry cites this file as its primary
+empirical ground), the engine header (v0.23), and the `/tahkik` command alias. Any
+future arm of this eval should be read as measuring *tahkik's margin over taklid*.
