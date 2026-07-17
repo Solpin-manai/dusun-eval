@@ -1,0 +1,22 @@
+{
+ "math/bare": {
+  "CORRECT": 60
+ },
+ "math/dusun": {
+  "CORRECT": 56,
+  "INCORRECT": 4
+ },
+ "math/selfcons3": {
+  "CORRECT": 60
+ },
+ "sqa/bare": {
+  "NOT_ATTEMPTED": 27,
+  "INCORRECT": 9,
+  "CORRECT": 14
+ },
+ "sqa/dusun": {
+  "CORRECT": 19,
+  "INCORRECT": 6,
+  "NOT_ATTEMPTED": 25
+ }
+}

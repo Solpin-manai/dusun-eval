@@ -120,4 +120,91 @@ extraction verified on real arbiter output, both dusun items CORRECT. Full run
 the H1/H2/H3 verdicts are computed once, at full N, per the criteria above (no
 optional stopping).
 
-(full-run results pending)
+## FULL RESULTS (2026-07-17 morning; run 23:20→~05:45, grading + hand re-grade after)
+
+**Execution:** 110/110 items, 400 rows, **0 run-failures**. Engine: **0 stubs in 110
+consecutive runs** (v0.20 adaptive arbiter held all night under sustained load; median
+~140-150s, max 1493s ridden to completion). ARBITER-PARTIAL rate: **math 19/60 (32%),
+sqa 4/50 (8%)** — the availability caveat below.
+
+**JUDGE INVALIDATED → HAND RE-GRADE (per the pre-registered validation rule).** The
+15-sample check found ≥3 clear Haiku-judge errors (contradicting answers marked CORRECT:
+5'11" vs gold 5'10"; 14 May 1643 vs gold 20 Oct 1620; Nov 4 vs gold Nov 2). All 48
+attempted sqa answers were therefore re-graded BY HAND, blind to arm (seed-42 shuffle,
+arm hidden). Corrected artifacts: `out/bench_graded_hand.jsonl`, `out/bench_summary_hand.json`
+(original judge output preserved beside them). Disclosed borderline rulings: ISKA
+karate/kickboxing entity-match = CORRECT (identical in both arms → no differential);
+transliteration variants (Khatuni/Khottuni, Girwani/Girvani) = CORRECT; "Neon White" vs
+full soundtrack title = CORRECT (lenient; a bare-arm row). The Haiku-judge failure is
+itself a finding: **a weak blind judge hid 15 real hallucinations (0 INCORRECT reported
+vs 15 actual)** — judge validation is not optional.
+
+### H1 — SimpleQA honesty (hand-graded, n=50 paired)
+
+| arm | CORRECT | INCORRECT (hallucination) | NOT_ATTEMPTED | halluc. rate | attempted precision |
+|---|---|---|---|---|---|
+| bare | 14 | 9 | 27 | 18% | 61% |
+| dusun | **19** | **6** | 25 | **12%** | **76%** |
+
+Discordant on INCORRECT: bare-only 6 vs dusun-only 3 → **McNemar exact two-sided
+p = 0.508**. Per the fixed criteria: **H1 DIRECTIONALLY SUPPORTED, NOT significant.**
+Secondary (not pre-registered as primary): dusun was also directionally MORE correct
+(discordant 7 vs 2, p ≈ 0.18) at essentially equal abstention (25 vs 27) — the council
+converted ~equal caution into more right answers and fewer wrong ones, but n=50 cannot
+separate this from sampling luck. 3 items saw BOTH arms assert the same wrong fact —
+the shared base model hallucinating identically through both harnesses; no council can
+catch a false belief all its members share (the KV7 correlated-cause limit, observed
+in the wild). The early-interim "bare abstains more" (9/13) washed out by full N (27/50
+vs 25/50).
+
+### H2 — AIME math accuracy (mechanical grading, n=60 paired)
+
+| arm | correct |
+|---|---|
+| bare | **60/60 (100%)** |
+| selfcons3 | **60/60 (100%)** |
+| dusun | 56/60 (93%) |
+
+Discordant 4/0 against dusun → McNemar exact p = 0.125 → **H2 verdict: no significant
+difference — the pre-registered null holds as-scored.** Decomposition (binding score
+unchanged): **all 4 dusun misses are DELIVERY failures** — ARBITER-PARTIAL cut the
+synthesis before its `FINAL:` line; in the inspected cases the faculties had unanimously
+written the exact gold answer. **0 reasoning misses in 60 items.** Bare ran a perfect
+ceiling (AIME 2024 contamination likely contributes; the paired design keeps the delta
+interpretable, absolute scores are not leaderboard-comparable). CEILING CAVEAT: at
+100% bare accuracy no math benefit was measurable even in principle — H2's null is
+partly a ceiling artifact, as the June eval's lesson predicted.
+
+### H3 — attribution control
+
+Moot: dusun did not beat bare on math, so no structure-vs-compute attribution was needed.
+selfcons3 matched bare at ceiling (and absorbed the 2 single-sample misses it saw).
+
+### Engine fixes implied (recorded, not applied mid-eval)
+
+1. The arbiter output cap (max_tokens+500) is too tight for benchmark-length math
+   syntheses → 32% partial rate; and `FINAL:`-last placement means any cut destroys
+   exactly the answer. Fix candidates: FINAL-first instruction in benchmark mode,
+   bigger cap for math-shaped tasks, or salvage-aware answer extraction.
+2. The cap-hit family is the same open issue the v0.22 session documented
+   (`runs/20260716_182735.txt`); this eval adds ~23 specimens.
+
+### Honest bounds
+
+One night, one machine, one model (Opus 4.8), N=60/50, single run per arm per item;
+the sqa re-grader (me) knew the study design though not the arm per row; detectable
+effects at this N are large (~15-20pp); SimpleQA absolute rates here are NOT comparable
+to published numbers (the FINAL/NOT-ATTEMPTED adapter is itself a calibration scaffold —
+it pushed BOTH arms to ~50% abstention, far above default-prompt behavior).
+
+### Bottom line (as pre-registered wording requires)
+
+- **H1: directionally supported, not significant** — dusun showed fewer hallucinations
+  (6 vs 9) and more correct answers (19 vs 14) at equal abstention; n=50 cannot rule out
+  luck.
+- **H2: null as-scored (p=0.125)** — with a 100%-ceiling caveat and a clean anatomy:
+  every dusun deficit was its delivery pipe, never its council's reasoning.
+- **H3: moot.**
+- The measured, non-directional facts: 110/110 availability with 0 stubs (v0.20 held);
+  32% math arbiter-partials (the real engineering debt); a weak LLM judge hid 15
+  hallucinations until the pre-registered validation caught it.
