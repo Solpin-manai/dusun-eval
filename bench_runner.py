@@ -122,9 +122,15 @@ def emit(row: dict):
 
 
 def main():
+    global BANK, OUT
     args = sys.argv[1:]
     limit = int(args[args.index("--limit") + 1]) if "--limit" in args else None
     only_cls = args[args.index("--cls") + 1] if "--cls" in args else None
+    if "--bank" in args:                      # power run: separate bank + raw file
+        BANK = HERE / args[args.index("--bank") + 1]
+    if "--out" in args:
+        OUT = HERE / "out" / args[args.index("--out") + 1]
+    print("bank=%s out=%s" % (BANK.name, OUT.name), flush=True)
 
     items = [json.loads(l) for l in BANK.read_text(encoding="utf-8").splitlines()]
     if only_cls:

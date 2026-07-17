@@ -254,3 +254,40 @@ the concept-name: **tahkik** (opposite: taklid, the LLM's native inherited-asser
 mode). Recorded in `codex/lexicon/tahkik.md` (the entry cites this file as its primary
 empirical ground), the engine header (v0.23), and the `/tahkik` command alias. Any
 future arm of this eval should be read as measuring *tahkik's margin over taklid*.
+
+## H1 POWER RUN (pre-registered before running — launched 2026-07-17 ~18:40)
+
+The n=50 SimpleQA result was directionally supported but not significant (McNemar
+p≈0.34–0.51 across graders). This is the pre-committed **powered** re-test of H1 only.
+
+- **Items:** 150 NEW SimpleQA items (`bench_bank_pow.py`, seed 20260717, stratified by
+  topic), verified **zero overlap** with the original 50 → **pooled n = 200** paired
+  items. SimpleQA only — the math/selfcons arms are not re-run (H1 is the honesty axis).
+- **Arms:** bare Opus 4.8 vs the real engine (`py dusun_engine.py --n 3`), identical
+  FINAL/NOT-ATTEMPTED adapter (abstention first-class for both).
+- **Engine freeze:** **v0.24** (`dusun_engine.py`; the seamlessness fixes v0.20–v0.24 +
+  the file_size verb + the synced faculty menu). **Version-boundary honesty:** the old 50
+  dusun runs were v0.22/23. For SimpleQA the differences are inert-or-reliability-only —
+  no filesystem referents exist for a factual-recall question, so the faculty-menu sync
+  (v0.24) and file_size (v0.22) never fire; the v0.20–v0.23 changes are delivery-pipe
+  reliability, not reasoning. Pooling is therefore defensible and is done, with this note.
+- **Grader (uniform across all 200):** the **fixed-parser** (`bench_grade.py` post the
+  substring-bug fix) Opus-4.8 blind judge — the config that agreed 94% with the blind
+  hand-grades on the original 50. All 200 graded by this ONE grader so the pool is
+  consistent; a random **20-item hand-validation** sample is read before trusting it
+  (>2 disagreements → re-examine, per the standing rule).
+- **Fixed criteria:** **H1 SUPPORTED** iff pooled dusun INCORRECT (hallucination) count <
+  bare's with McNemar exact two-sided **p < 0.05**; **directionally supported** if lower
+  but p ≥ 0.05; **not supported** if dusun ≥ bare. Computed ONCE at full n=200 — interim
+  readings are descriptive only, no optional stopping. Secondary (descriptive): the
+  CORRECT-rate and abstention deltas.
+- **Threats unchanged:** one machine, one model, single run per arm per item; Claude
+  judging Claude (mitigated by fixed-parser + blind rubric + hand-validation); the
+  FINAL/NOT-ATTEMPTED adapter inflates both arms' abstention far above default behaviour,
+  so absolute SimpleQA rates are NOT comparable to published numbers — only the paired
+  arm-vs-arm delta is.
+
+Launch: smoke (1 item, bare+dusun) PASSED ~18:37; full run (`pow_full` task,
+`out/bench_raw_pow.jsonl`) fired ~18:40. Results appended below when complete.
+
+(power-run results pending)
