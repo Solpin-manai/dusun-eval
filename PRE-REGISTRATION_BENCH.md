@@ -291,3 +291,55 @@ Launch: smoke (1 item, bare+dusun) PASSED ~18:37; full run (`pow_full` task,
 `out/bench_raw_pow.jsonl`) fired ~18:40. Results appended below when complete.
 
 (power-run results pending)
+
+## POWER-RUN RESULTS (2026-07-17 night) — TRUNCATED by the Max monthly spend limit
+
+**What happened.** The run reached the **Max subscription's MONTHLY spend limit** at ~item 112
+("You've hit your monthly spend limit"). Every call after that failed identically on BOTH arms;
+the automated Opus grader (also Max) is likewise blocked until the billing cycle resets. This is
+an exogenous account ceiling, not an engine failure — but it **truncated the run** and exposed a
+bug: the spend-limit error slipped past the v0.23.2 error-shape guard (which only matched
+"API Error:") and was returned AS the arbiter's answer on ~48 items. Fixed in engine **v0.24.1**
+(generalized `_cli_error_shaped` to a signature set). The failing tail (rows ≥ sqa-2453) is
+dropped; the pre-limit set is clean and, because items run in row-index order, the cut is **not
+outcome-correlated** → analyzable, just underpowered.
+
+**Analyzable pool: n = 139** (89 new items with BOTH arms clean + the 50 prior). Grading: the
+89 new items **hand-graded by me, blind to arm** (the Opus judge was budget-blocked; hand-grade
+is the pre-registered fallback). Reported under two graders for the pool to expose fragility.
+
+| grader | arm | CORRECT | INCORRECT (halluc.) | NA | H1 primary p (INCORRECT) | secondary p (CORRECT) |
+|---|---|---|---|---|---|---|
+| mixed (new=hand, old=Opus2) | bare / dusun | 40 / 50 | 17 / 14 | 82 / 75 | **0.581** | 0.041 |
+| uniform (all hand) | bare / dusun | 42 / 51 | 15 / 13 | 82 / 75 | **0.774** | 0.064 |
+
+### Verdict (against the fixed criteria)
+
+- **H1 (PRIMARY — hallucination reduction): NOT SUPPORTED / directional-not-significant.**
+  Pooled dusun INCORRECT ≤ bare under both graders (14 vs 17; 13 vs 15) but McNemar p = 0.58–0.77,
+  far from 0.05. Decisively, the **new 89 clean items showed NO hallucination gap** (6 vs 7) — the
+  pilot-50's gap (11 vs 7) did **not replicate**. The hallucination-reduction claim is *weakened*,
+  not confirmed, by the added data.
+- **Secondary (CORRECT-rate): a small, consistent, FRAGILE advantage.** dusun answered ~10 more of
+  139 correctly (50–51 vs 40–42; discordant ~15 vs ~5), directionally robust across both batches
+  (new 32 vs 28; old 18 vs 12) but **straddling significance** — p = 0.041 (mixed) vs 0.064
+  (uniform). A pre-declared secondary that flips across a defensible grader choice cannot carry a
+  claim; it is *suggestive*, not established.
+- **Abstention:** near-equal (dusun attempts ~7 more of 139) — the effect is at equal caution, not
+  bought by attempting more recklessly.
+
+### Honest bottom line
+
+The powered re-test **did not confirm H1**, and truncation (n=139, not the planned 200) leaves it
+underpowered. The most defensible statement the data supports: *tahkik shows a small, consistent
+directional edge in returning more correct answers at equal caution, but it does not reach robust
+significance at this truncated n, and the pilot's hallucination-reduction effect did not replicate.*
+The genuinely settled facts remain the non-directional ones: engine availability was perfect on the
+89 pre-limit runs (0 stubs/partials), and the eval's own discipline again caught its own defects
+(the spend-limit-as-answer bug). To actually settle H1: a full n≥200 on a **funded or cycle-reset**
+account, uniform Opus grader, ideally two planted axes (hallucination AND correctness) pre-declared
+with the correctness axis promoted to co-primary given this signal.
+
+### Threats specific to this run
+Mixed/hand grading (Claude grading Claude, blind but not independent); monthly-limit truncation;
+single run per item; adapter-inflated abstention (absolute rates not leaderboard-comparable).
