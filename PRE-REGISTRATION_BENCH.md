@@ -294,7 +294,7 @@ Launch: smoke (1 item, bare+dusun) PASSED ~18:37; full run (`pow_full` task,
 
 ## POWER-RUN RESULTS (2026-07-17 night) — TRUNCATED by the Max monthly spend limit
 
-**What happened.** The run reached the **Max subscription's MONTHLY spend limit** at ~item 112
+**What happened.** The run hit a **Max HOURLY rate limit** at ~item 112 (the CLI error text read "You've hit your monthly spend limit", but the owner clarified 2026-07-18 it was an **hourly** rate cap — **credits were fine, not a monthly ceiling**; so the run was resumable once the window reopened, and the owner elected to STOP it)
 ("You've hit your monthly spend limit"). Every call after that failed identically on BOTH arms;
 the automated Opus grader (also Max) is likewise blocked until the billing cycle resets. This is
 an exogenous account ceiling, not an engine failure — but it **truncated the run** and exposed a
@@ -336,10 +336,10 @@ directional edge in returning more correct answers at equal caution, but it does
 significance at this truncated n, and the pilot's hallucination-reduction effect did not replicate.*
 The genuinely settled facts remain the non-directional ones: engine availability was perfect on the
 89 pre-limit runs (0 stubs/partials), and the eval's own discipline again caught its own defects
-(the spend-limit-as-answer bug). To actually settle H1: a full n≥200 on a **funded or cycle-reset**
+(the spend-limit-as-answer bug). To actually settle H1: a full n≥200 in an **open hourly-rate window** (no funding needed — credits were fine),
 account, uniform Opus grader, ideally two planted axes (hallucination AND correctness) pre-declared
 with the correctness axis promoted to co-primary given this signal.
 
 ### Threats specific to this run
-Mixed/hand grading (Claude grading Claude, blind but not independent); monthly-limit truncation;
+Mixed/hand grading (Claude grading Claude, blind but not independent); hourly-rate-limit truncation;
 single run per item; adapter-inflated abstention (absolute rates not leaderboard-comparable).
