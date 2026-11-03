@@ -1,0 +1,400 @@
+{"id": "sqa-10", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-10", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1016", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1016", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1019", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1019", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1038", "arm": "bare", "ok": true, "err": null, "pred": "5 feet 10 inches (approximately 5.83 feet)", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1038", "arm": "dusun", "ok": true, "err": null, "pred": "Approximately 5 feet 11 inches (about 5.9 feet), on unverified recall", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-1070", "arm": "bare", "ok": true, "err": null, "pred": "En Marche!", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1070", "arm": "dusun", "ok": true, "err": null, "pred": "En Marche!", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1082", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1082", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1083", "arm": "bare", "ok": true, "err": null, "pred": "Abu Ishaq al-Sahili", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1083", "arm": "dusun", "ok": true, "err": null, "pred": "Abu Ishaq al-Sahili (es-Saheli)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1119", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1119", "arm": "dusun", "ok": true, "err": null, "pred": "Birendra Bir Bikram Shah Dev (10th Shah-dynasty king counting from unification; subject to counting-convention ambiguity)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1121", "arm": "bare", "ok": true, "err": null, "pred": "10 years old", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1121", "arm": "dusun", "ok": true, "err": null, "pred": "approximately 10 years old (circa 1926–27, born 1916) — low confidence", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-113", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-113", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1147", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1147", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1166", "arm": "bare", "ok": true, "err": null, "pred": "Deprived", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1166", "arm": "dusun", "ok": true, "err": null, "pred": "Deprived", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1180", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1180", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1210", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1210", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1212", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1212", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1234", "arm": "bare", "ok": true, "err": null, "pred": "Punjab", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1234", "arm": "dusun", "ok": true, "err": null, "pred": "Punjab (noting that \"Sapta Sindhu\" is a Vedic region, not strictly one modern state)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1269", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1269", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1286", "arm": "bare", "ok": true, "err": null, "pred": "1952", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1286", "arm": "dusun", "ok": true, "err": null, "pred": "1952", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1300", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1300", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1324", "arm": "bare", "ok": true, "err": null, "pred": "Drexel University", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-1324", "arm": "dusun", "ok": true, "err": null, "pred": "Drexel University", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-1345", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1345", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1376", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1376", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1433", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1433", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1458", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1458", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1482", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1482", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1488", "arm": "bare", "ok": true, "err": null, "pred": "1838", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1488", "arm": "dusun", "ok": true, "err": null, "pred": "1838", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1510", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1510", "arm": "dusun", "ok": true, "err": null, "pred": "Two daughters, likely named Girvani Rana and Surangana Rana (unverified)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1525", "arm": "bare", "ok": true, "err": null, "pred": "June Bacon-Bercey", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1525", "arm": "dusun", "ok": true, "err": null, "pred": "June Bacon-Bercey", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1590", "arm": "bare", "ok": true, "err": null, "pred": "Murray State University", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-1590", "arm": "dusun", "ok": true, "err": null, "pred": "Murray State University (his first head coaching job; the literal \"first coaching job\" of any kind was an earlier assistant role I cannot confirm)", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-1598", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1598", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1618", "arm": "bare", "ok": true, "err": null, "pred": "Toronto", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1618", "arm": "dusun", "ok": true, "err": null, "pred": "Toronto", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1663", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1663", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1687", "arm": "bare", "ok": true, "err": null, "pred": "March 23, 1932", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1687", "arm": "dusun", "ok": true, "err": null, "pred": "March 23, 1932", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1709", "arm": "bare", "ok": true, "err": null, "pred": "Swarnamukhi River", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-1709", "arm": "dusun", "ok": true, "err": null, "pred": "Swarnamukhi River (low confidence)", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-1747", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1747", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1779", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1779", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1782", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1782", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1802", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1802", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1821", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1821", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1834", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1834", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1844", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1844", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1852", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1852", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1860", "arm": "bare", "ok": true, "err": null, "pred": "1.0.6", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-1860", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1892", "arm": "bare", "ok": true, "err": null, "pred": "Wavertree Technology Park", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1892", "arm": "dusun", "ok": true, "err": null, "pred": "Wavertree Technology Park", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-1896", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1896", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1945", "arm": "bare", "ok": true, "err": null, "pred": "10 August 843", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1945", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1954", "arm": "bare", "ok": true, "err": null, "pred": "50", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1954", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1980", "arm": "bare", "ok": true, "err": null, "pred": "1840", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-1980", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-1989", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-1989", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-199", "arm": "bare", "ok": true, "err": null, "pred": "1926", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-199", "arm": "dusun", "ok": true, "err": null, "pred": "1926", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2013", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2013", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2024", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2024", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-203", "arm": "bare", "ok": true, "err": null, "pred": "2 November 2020", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-203", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2031", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2031", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2075", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2075", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2132", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2132", "arm": "dusun", "ok": true, "err": null, "pred": "Dream Serenade", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2164", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2164", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2168", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2168", "arm": "dusun", "ok": true, "err": null, "pred": "Matty L. Cocke", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2172", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2172", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-219", "arm": "bare", "ok": true, "err": null, "pred": "February 10, 1135", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-219", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2198", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2198", "arm": "dusun", "ok": true, "err": null, "pred": "Vsevolod", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2221", "arm": "bare", "ok": true, "err": null, "pred": "1880", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2221", "arm": "dusun", "ok": true, "err": null, "pred": "1880", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2268", "arm": "bare", "ok": true, "err": null, "pred": "October 25, 1884", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2268", "arm": "dusun", "ok": true, "err": null, "pred": "25 October 1884", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2280", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2280", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2281", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2281", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2295", "arm": "bare", "ok": true, "err": null, "pred": "1949", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2295", "arm": "dusun", "ok": true, "err": null, "pred": "1949", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2330", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2330", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2363", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2363", "arm": "dusun", "ok": true, "err": null, "pred": "May 25, 2023", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2389", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2389", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2395", "arm": "bare", "ok": true, "err": null, "pred": "Nigo", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2395", "arm": "dusun", "ok": true, "err": null, "pred": "Nigo (Tomoaki Nagao)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2396", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2396", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2406", "arm": "bare", "ok": true, "err": null, "pred": "4 September 1282", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2406", "arm": "dusun", "ok": true, "err": null, "pred": "4 September 1282 (year 1282 robust; the specific day is commonly cited but not independently verified here)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2407", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2407", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2437", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2437", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2453", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2453", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2463", "arm": "bare", "ok": true, "err": null, "pred": "19 July 1970", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2463", "arm": "dusun", "ok": true, "err": null, "pred": "19 July 1970", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2466", "arm": "bare", "ok": true, "err": null, "pred": "14 May 1643", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-2466", "arm": "dusun", "ok": true, "err": null, "pred": "14 May 1643", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-2472", "arm": "bare", "ok": true, "err": null, "pred": "India", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2472", "arm": "dusun", "ok": true, "err": null, "pred": "India", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2496", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2496", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2510", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2510", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2537", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2537", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2546", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2546", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2552", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2552", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2572", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2572", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-259", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-259", "arm": "dusun", "ok": true, "err": null, "pred": "A. P. J. Abdul Kalam (as SLV-3 project director; the precise \"mission director\" title is unverified)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2595", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2595", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2614", "arm": "bare", "ok": true, "err": null, "pred": "January 1, 1942", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2614", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2620", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2620", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2627", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2627", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2643", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2643", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2676", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2676", "arm": "dusun", "ok": true, "err": null, "pred": "Season 3, Episode 21, \"The First Chang Dynasty\" (with the arc concluding in Episode 22, \"Introduction to Finality\") — unverified; recommend confirmation against an episode guide", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2685", "arm": "bare", "ok": true, "err": null, "pred": "Larry Gagosian", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2685", "arm": "dusun", "ok": true, "err": null, "pred": "Larry Gagosian (winning bidder of record for Warhol's *Shot Sage Blue Marilyn* at ~$195M, reportedly on behalf of an undisclosed client whose identity was not publicly confirmed)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2694", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2694", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-272", "arm": "bare", "ok": true, "err": null, "pred": "University of Hyderabad", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-272", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2728", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2728", "arm": "dusun", "ok": true, "err": null, "pred": "Gord Downie", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2732", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2732", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2735", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2735", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2756", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2756", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2760", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2760", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2814", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2814", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2850", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2850", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2882", "arm": "bare", "ok": true, "err": null, "pred": "1959", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2882", "arm": "dusun", "ok": true, "err": null, "pred": "1959", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2885", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2885", "arm": "dusun", "ok": true, "err": null, "pred": "Haryana (popularly, though unverified here)", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-2893", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2893", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2902", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2902", "arm": "dusun", "ok": true, "err": null, "pred": "Umroi, Meghalaya, India (2019 edition — unverified; see disclosure)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2903", "arm": "bare", "ok": true, "err": null, "pred": "51 Nemausa", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-2903", "arm": "dusun", "ok": true, "err": null, "pred": "51 Nemausa", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2906", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2906", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2916", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2916", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2927", "arm": "bare", "ok": true, "err": null, "pred": "October 2019", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-2927", "arm": "dusun", "ok": true, "err": null, "pred": "April 2019", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-2935", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2935", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2953", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2953", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2956", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2956", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2964", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2964", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-2984", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-2984", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3030", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3030", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3048", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3048", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3068", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3068", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3159", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3159", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3169", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3169", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3181", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3181", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3199", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3199", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-32", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-32", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3230", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3230", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3235", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3235", "arm": "dusun", "ok": true, "err": null, "pred": "Khottuni (Vedeno district, Chechnya) — likely but unverified", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-3284", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3284", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3296", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3296", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3329", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3329", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3331", "arm": "bare", "ok": true, "err": null, "pred": "Surrealism", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-3331", "arm": "dusun", "ok": true, "err": null, "pred": "Surrealism", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-3362", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3362", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3373", "arm": "bare", "ok": true, "err": null, "pred": "May 25, 1925", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-3373", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3383", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3383", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-34", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-34", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3419", "arm": "bare", "ok": true, "err": null, "pred": "1761", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-3419", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3458", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3458", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3505", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3505", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3525", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3525", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3531", "arm": "bare", "ok": true, "err": null, "pred": "Sidney Sonnino", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-3531", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3606", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3606", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3608", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3608", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3620", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3620", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3722", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3722", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3735", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3735", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3773", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3773", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3783", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3783", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3797", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3797", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3869", "arm": "bare", "ok": true, "err": null, "pred": "December 2007", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-3869", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-39", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-39", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3905", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3905", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-3957", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-3957", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-4002", "arm": "bare", "ok": true, "err": null, "pred": "July 15, 2023", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-4002", "arm": "dusun", "ok": true, "err": null, "pred": "July 15, 2023 (unverified day; July 2023 held with moderate confidence)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-4029", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4029", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-4045", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4045", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-405", "arm": "bare", "ok": true, "err": null, "pred": "ISKA (International Sport Karate Association)", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-405", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-4051", "arm": "bare", "ok": true, "err": null, "pred": "1690", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-4051", "arm": "dusun", "ok": true, "err": null, "pred": "1690 (initial settlement; municipal erection commonly dated c. 1787 — unverified)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-4065", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4065", "arm": "dusun", "ok": true, "err": null, "pred": "Gordon Towers", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-41", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-41", "arm": "dusun", "ok": true, "err": null, "pred": "David Chow came to Genoa City in connection with Jack Abbott's senate campaign and became romantically involved with (and later married) Nikki Newman — stated with limited confidence from recollection, not verified source.", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-4112", "arm": "bare", "ok": true, "err": null, "pred": "1994", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-4112", "arm": "dusun", "ok": true, "err": null, "pred": "1994 (first widely-recognized solo exhibition, The Drawing Center, New York)", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-4124", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4124", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-4149", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4149", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-415", "arm": "bare", "ok": true, "err": null, "pred": "Northwest coast", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-415", "arm": "dusun", "ok": true, "err": null, "pred": "The northern/northeastern coast — the island of Solstheim", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-4200", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4200", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-4214", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4214", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-4225", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4225", "arm": "dusun", "ok": true, "err": null, "pred": "Shemar Moore (most likely, but unverified in this run)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-4249", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4249", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-4255", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4255", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-4262", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4262", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-4275", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4275", "arm": "dusun", "ok": true, "err": null, "pred": "Norberto Maillart", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-4283", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4283", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-4324", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-4324", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-439", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-439", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-444", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-444", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-450", "arm": "bare", "ok": true, "err": null, "pred": "American Academy of Arts and Sciences", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-450", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-451", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-451", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-466", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-466", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-468", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-468", "arm": "dusun", "ok": true, "err": null, "pred": "Dev Shamsher Jung Bahadur Rana (under the standard list counting Rana hereditary PMs; convention-dependent, unverified)", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-484", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-484", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-506", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-506", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-528", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-528", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-561", "arm": "bare", "ok": true, "err": null, "pred": "Airrack", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-561", "arm": "dusun", "ok": true, "err": null, "pred": "Airrack (Eric Decker)", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-59", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-59", "arm": "dusun", "ok": true, "err": null, "pred": "Norberto Raffo", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-617", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-617", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-627", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-627", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-668", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-668", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-687", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-687", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-718", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-718", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-719", "arm": "bare", "ok": true, "err": null, "pred": "1863", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-719", "arm": "dusun", "ok": true, "err": null, "pred": "1863", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-723", "arm": "bare", "ok": true, "err": null, "pred": "2008", "verdict": "INCORRECT", "arbiter": null}
+{"id": "sqa-723", "arm": "dusun", "ok": true, "err": null, "pred": "2008", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-79", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-79", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-799", "arm": "bare", "ok": true, "err": null, "pred": "June 29, 2022", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-799", "arm": "dusun", "ok": true, "err": null, "pred": "June 30, 2022", "verdict": "INCORRECT", "arbiter": true}
+{"id": "sqa-805", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-805", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-814", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-814", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-818", "arm": "bare", "ok": true, "err": null, "pred": "2021", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-818", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-823", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-823", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-850", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-850", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-852", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-852", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-867", "arm": "bare", "ok": true, "err": null, "pred": "three years", "verdict": "CORRECT", "arbiter": null}
+{"id": "sqa-867", "arm": "dusun", "ok": true, "err": null, "pred": "three years", "verdict": "CORRECT", "arbiter": true}
+{"id": "sqa-882", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-882", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-957", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-957", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-968", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-968", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}
+{"id": "sqa-983", "arm": "bare", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": null}
+{"id": "sqa-983", "arm": "dusun", "ok": true, "err": null, "pred": "NOT ATTEMPTED", "verdict": "NOT_ATTEMPTED", "arbiter": true}

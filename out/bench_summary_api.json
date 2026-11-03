@@ -1,0 +1,31 @@
+{
+ "n_items": 200,
+ "judge": "claude-opus-5-5",
+ "per_arm": {
+  "bare": {
+   "NOT_ATTEMPTED": 147,
+   "CORRECT": 42,
+   "INCORRECT": 11
+  },
+  "dusun": {
+   "NOT_ATTEMPTED": 144,
+   "INCORRECT": 11,
+   "CORRECT": 45
+  }
+ },
+ "H1a_incorrect": {
+  "bare_only": 5,
+  "dusun_only": 5,
+  "p": 1.0,
+  "p_holm": 1.0
+ },
+ "H1b_correct": {
+  "bare_only": 13,
+  "dusun_only": 16,
+  "p": 0.711071103811264,
+  "p_holm": 1.0
+ },
+ "dusun_arbiter_availability": 1.0,
+ "inconclusive_availability": false,
+ "judge_failed": 0
+}

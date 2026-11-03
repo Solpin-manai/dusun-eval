@@ -1,0 +1,272 @@
+[
+ {
+  "n": 1,
+  "question": "Which state of India was called \"Sapta Sindhu\"?",
+  "gold": "Punjab",
+  "pred": "Punjab",
+  "judge": "CORRECT",
+  "_key": "sqa-1234|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 2,
+  "question": "What year was the municipality of Amalfi, Antioquia, Colombia, founded?",
+  "gold": "1838",
+  "pred": "1838",
+  "judge": "CORRECT",
+  "_key": "sqa-1488|dusun",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 3,
+  "question": "What is the first and last name of the first female television meteorologist in the U.S.?",
+  "gold": "June Bacon-Bercey",
+  "pred": "June Bacon-Bercey",
+  "judge": "CORRECT",
+  "_key": "sqa-1525|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 4,
+  "question": "In which year was Ruth Wilson Gilmore elected as a member of the American Academy of Arts and Sciences?",
+  "gold": "2021",
+  "pred": "2021",
+  "judge": "CORRECT",
+  "_key": "sqa-818|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 5,
+  "question": "On September 1, 1900, James Marshall, a resident of what city, filed a patent for a light, comfortable, and sanitary mattress with a filling composed of multiple coil springs, each contained in a pocket of flexible material arranged side by side to fill the mattress?",
+  "gold": "Toronto",
+  "pred": "Toronto",
+  "judge": "CORRECT",
+  "_key": "sqa-1618|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 6,
+  "question": "What year was the municipality of San Andrés de Cuerquia, Antioquia, Colombia, founded?",
+  "gold": "1761",
+  "pred": "1761",
+  "judge": "CORRECT",
+  "_key": "sqa-3419|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 7,
+  "question": "On which date (month, day, year) was Josep Clarà i Ayats' sculpture *Serenity*, located in Washington, D.C., dedicated?",
+  "gold": "March 12, 1924",
+  "pred": "May 25, 1925",
+  "judge": "INCORRECT",
+  "_key": "sqa-3373|bare",
+  "hand": "INCORRECT"
+ },
+ {
+  "n": 8,
+  "question": "What year was the municipality of Amalfi, Antioquia, Colombia, founded?",
+  "gold": "1838",
+  "pred": "1838",
+  "judge": "CORRECT",
+  "_key": "sqa-1488|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 9,
+  "question": "What is the name of the 10th King of Nepal?",
+  "gold": "Birendra Bir Bikram Shah Dev",
+  "pred": "Birendra Bir Bikram Shah Dev (10th Shah-dynasty king counting from unification; subject to counting-convention ambiguity)",
+  "judge": "CORRECT",
+  "_key": "sqa-1119|dusun",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 10,
+  "question": "In what year was the Society of Illustrators' first Annual Exhibition held?",
+  "gold": "1959",
+  "pred": "1959",
+  "judge": "CORRECT",
+  "_key": "sqa-2882|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 11,
+  "question": "At which technology park in Liverpool was Psygnosis Limited headquartered starting in 1995?",
+  "gold": "Wavertree Technology Park",
+  "pred": "Wavertree Technology Park",
+  "judge": "CORRECT",
+  "_key": "sqa-1892|dusun",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 12,
+  "question": "Who was Racing's top scorer in the Copa Libertadores 1967?",
+  "gold": "Norberto Raffo",
+  "pred": "Norberto Raffo",
+  "judge": "CORRECT",
+  "_key": "sqa-59|dusun",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 13,
+  "question": "Which architect built the Palace of Justice of the Argentine Nation?",
+  "gold": "Norbert Maillart.",
+  "pred": "Norberto Maillart",
+  "judge": "CORRECT",
+  "_key": "sqa-4275|dusun",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 14,
+  "question": "What was the name of the MP of Red Deer, Alberta, in 1987?",
+  "gold": "Gordon Towers",
+  "pred": "Gordon Towers",
+  "judge": "CORRECT",
+  "_key": "sqa-4065|dusun",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 15,
+  "question": "What year was Kara Walker's first solo exhibition?",
+  "gold": "2007",
+  "pred": "1994",
+  "judge": "INCORRECT",
+  "_key": "sqa-4112|bare",
+  "hand": "INCORRECT"
+ },
+ {
+  "n": 16,
+  "question": "What university was awarded the \"Visitor's Award\" for \"Best University\" in 2017 by the President of India?",
+  "gold": "Jawaharlal Nehru University",
+  "pred": "University of Hyderabad",
+  "judge": "INCORRECT",
+  "_key": "sqa-272|bare",
+  "hand": "INCORRECT"
+ },
+ {
+  "n": 17,
+  "question": "What year was the post of Secretary General of NATO established?",
+  "gold": "1952.",
+  "pred": "1952",
+  "judge": "CORRECT",
+  "_key": "sqa-1286|dusun",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 18,
+  "question": "Which school was Frank Beamer's first coaching job?",
+  "gold": "Radford High School",
+  "pred": "Murray State University",
+  "judge": "INCORRECT",
+  "_key": "sqa-1590|bare",
+  "hand": "INCORRECT"
+ },
+ {
+  "n": 19,
+  "question": "On what day, month, and year did King Louis II's, also known as King Louis XIII of France, reign as King of Navarre end?",
+  "gold": "20 October 1620",
+  "pred": "14 May 1643",
+  "judge": "INCORRECT",
+  "_key": "sqa-2466|dusun",
+  "hand": "INCORRECT"
+ },
+ {
+  "n": 20,
+  "question": "On what month, day, and year did Ketanji Brown Jackson's service as a circuit judge end?",
+  "gold": "June 29 2022",
+  "pred": "June 29, 2022",
+  "judge": "CORRECT",
+  "_key": "sqa-799|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 21,
+  "question": "What day, month, and year did Emperor Xizong of Jin become the emperor of the Jin dynasty?",
+  "gold": "10 February, 1135",
+  "pred": "February 10, 1135",
+  "judge": "CORRECT",
+  "_key": "sqa-219|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 22,
+  "question": "What day, month, and year did the actor Dylan Sprouse marry Barbara Palvin?",
+  "gold": "15 of July of 2023",
+  "pred": "July 15, 2023",
+  "judge": "CORRECT",
+  "_key": "sqa-4002|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 23,
+  "question": "Who bought a piece of artwork by Andy Warhol in 2022 for nearly $200 million USD at Christie's New York?",
+  "gold": "Larry Gagosian",
+  "pred": "Larry Gagosian (winning bidder of record for Warhol's *Shot Sage Blue Marilyn* at ~$195M, reportedly on behalf of an undisclosed client whose identity was not publicly confirmed)",
+  "judge": "CORRECT",
+  "_key": "sqa-2685|dusun",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 24,
+  "question": "Off of what coast of Morrowind does the DLC Dragonborn take place?",
+  "gold": "North",
+  "pred": "Northwest coast",
+  "judge": "CORRECT",
+  "_key": "sqa-415|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 25,
+  "question": "Who (full name) served as Hollins College's president from 1901 to 1933?",
+  "gold": "Martha Louisa Cocke a.k.a Miss Matty Cocke",
+  "pred": "Matty L. Cocke",
+  "judge": "CORRECT",
+  "_key": "sqa-2168|dusun",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 26,
+  "question": "Why did David Chow come to Genoa City on \"The Young and the Restless\"?",
+  "gold": "To avenge the murder of his former fiancée, Carmen Mesta.",
+  "pred": "David Chow came to Genoa City in connection with Jack Abbott's senate campaign and became romantically involved with (and later married) Nikki Newman — stated with limited confidence from recollection, not verified source.",
+  "judge": "INCORRECT",
+  "_key": "sqa-41|dusun",
+  "hand": "INCORRECT"
+ },
+ {
+  "n": 27,
+  "question": "Name the country that has lifted the World Cup in the 60, 50, and 20-over formats.",
+  "gold": "India",
+  "pred": "India",
+  "judge": "CORRECT",
+  "_key": "sqa-2472|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 28,
+  "question": "What year was the municipality of Salgar, Antioquia, Colombia, founded?",
+  "gold": "1880",
+  "pred": "1880",
+  "judge": "CORRECT",
+  "_key": "sqa-2221|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 29,
+  "question": "In 1993, Vaughan Jones was elected to which academy?",
+  "gold": "American Academy of Arts and Science.",
+  "pred": "American Academy of Arts and Sciences",
+  "judge": "CORRECT",
+  "_key": "sqa-450|bare",
+  "hand": "CORRECT"
+ },
+ {
+  "n": 30,
+  "question": "On what day, month, and year was Masaki Tsuji born?",
+  "gold": "March 23, 1932",
+  "pred": "March 23, 1932",
+  "judge": "CORRECT",
+  "_key": "sqa-1687|bare",
+  "hand": "CORRECT"
+ }
+]

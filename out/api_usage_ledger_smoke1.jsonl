@@ -1,0 +1,14 @@
+{"t": 1793695564.9952726, "model": "claude-opus-4-8", "in": 192, "out": 37, "cr": 0, "cw": 0, "stop": "end_turn", "src": "bare"}
+{"t": 1793695565.3551078, "model": "claude-opus-4-8", "in": 113, "out": 60, "cr": 0, "cw": 0, "stop": "end_turn", "src": "bare"}
+{"t": 1793695566.2725334, "model": "claude-opus-4-8", "in": 279, "out": 8, "cr": 0, "cw": 0, "stop": "max_tokens", "src": "engine"}
+{"t": 1793695566.9927278, "model": "claude-opus-4-8", "in": 200, "out": 8, "cr": 0, "cw": 0, "stop": "max_tokens", "src": "engine"}
+{"t": 1793695570.9870136, "model": "claude-opus-4-8", "in": 2217, "out": 220, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695571.8043253, "model": "claude-opus-4-8", "in": 2138, "out": 261, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695576.6044986, "model": "claude-opus-4-8", "in": 2221, "out": 307, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695578.1733673, "model": "claude-opus-4-8", "in": 2142, "out": 348, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695583.9504724, "model": "claude-opus-4-8", "in": 2138, "out": 271, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695584.0195138, "model": "claude-opus-4-8", "in": 2217, "out": 374, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695593.0818934, "model": "claude-opus-4-8", "in": 1637, "out": 600, "cr": 0, "cw": 0, "stop": "max_tokens", "src": "engine"}
+{"t": 1793695594.7303355, "model": "claude-opus-4-8", "in": 1537, "out": 600, "cr": 0, "cw": 0, "stop": "max_tokens", "src": "engine"}
+{"t": 1793695618.8417099, "model": "claude-opus-4-8", "in": 3164, "out": 938, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695619.0614407, "model": "claude-opus-4-8", "in": 3063, "out": 779, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}

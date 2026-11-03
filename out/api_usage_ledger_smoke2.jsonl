@@ -1,0 +1,14 @@
+{"t": 1793695688.5049126, "model": "claude-opus-4-8", "in": 192, "out": 37, "cr": 0, "cw": 0, "stop": "end_turn", "src": "bare"}
+{"t": 1793695689.2503586, "model": "claude-opus-4-8", "in": 113, "out": 112, "cr": 0, "cw": 0, "stop": "end_turn", "src": "bare"}
+{"t": 1793695690.187548, "model": "claude-opus-4-8", "in": 279, "out": 8, "cr": 0, "cw": 0, "stop": "max_tokens", "src": "engine"}
+{"t": 1793695690.692028, "model": "claude-opus-4-8", "in": 200, "out": 8, "cr": 0, "cw": 0, "stop": "max_tokens", "src": "engine"}
+{"t": 1793695694.9953694, "model": "claude-opus-4-8", "in": 2138, "out": 253, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695695.5285714, "model": "claude-opus-4-8", "in": 2217, "out": 264, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695699.984412, "model": "claude-opus-4-8", "in": 2142, "out": 257, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695701.4755185, "model": "claude-opus-4-8", "in": 2221, "out": 321, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695705.4901483, "model": "claude-opus-4-8", "in": 2138, "out": 287, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695708.065936, "model": "claude-opus-4-8", "in": 2217, "out": 383, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695716.277511, "model": "claude-opus-4-8", "in": 1454, "out": 636, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695720.4684846, "model": "claude-opus-4-8", "in": 1704, "out": 760, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695740.2035046, "model": "claude-opus-4-8", "in": 3015, "out": 715, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793695746.8124897, "model": "claude-opus-4-8", "in": 3389, "out": 898, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}

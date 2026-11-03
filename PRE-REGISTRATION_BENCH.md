@@ -389,3 +389,37 @@ prints status and spend only, and grading starts after the run ends.
 prompt and defaults); this run uses the bare API with no system prompt, so absolute rates are not
 comparable to July, only the paired delta is. Opus 4.8 on the API runs without thinking unless
 asked; both arms get the same setting. One run per item per arm. The judge is a Claude model.
+
+## POWER RUN 2 (API) -- RESULTS (appended 2026-11-03 ~12:00; the setup above is unchanged)
+
+**Execution.** 10:49-11:50 local, 200/200 items, 400/400 rows ok, 0 run errors. Every engine run
+reached an arbiter answer (availability 1.000), every call was served by `claude-opus-4-8` (no
+fallback). Spend by the token ledger: engine USD 22.54, bare USD 0.47, judge USD 0.18, total
+USD 23.19 of the USD 150 cap. Engine dusun-engine 60e59ca, runner/grader dusun-eval 43b1a90.
+
+**Judge validation.** 30 attempted judgments drawn with seed 20261103, hand-graded blind to arm:
+0 disagreements with the Opus 5.5 judge (one borderline, "Northwest coast" vs gold "North",
+CORRECT by both). Under the fixed rule the judge's grade is primary. Sheet with both grades:
+`out/api_handcheck_sheet.json`.
+
+| arm | CORRECT | INCORRECT | NOT_ATTEMPTED | attempted | precision |
+|---|---|---|---|---|---|
+| bare | 42 | 11 | 147 | 53 | 0.79 |
+| dusun | 45 | 11 | 144 | 56 | 0.80 |
+
+- **H1a (fewer INCORRECT): NOT SUPPORTED.** 11 vs 11; discordant 5 bare-only, 5 dusun-only;
+  exact McNemar p = 1.00 (Holm 1.00).
+- **H1b (more CORRECT): NOT SUPPORTED.** 45 vs 42; discordant 13 bare-only, 16 dusun-only;
+  p = 0.71 (Holm 1.00).
+- On 6 items both arms asserted the same wrong answer: the shared base model's false belief,
+  which no council of the same model catches (the KV7 correlated-cause limit, seen again).
+
+**Verdict.** At the full pre-registered n=200, with a validated judge and 100% availability, the
+engine shows no measurable effect on short factual questions: neither fewer hallucinations nor
+more correct answers than the same model answering alone. The July pilot's hallucination gap
+(n=50) and the n=139 power run's fragile correctness edge (p 0.041/0.064) are not reproduced.
+Within this task family the honest claim is: the council costs about 50 times the tokens of a
+bare answer (USD 0.113 vs 0.002 per item) and changes nothing measurable. What it does not
+address: tasks where the gate's other organs act (false premises with an observable referent,
+the Referent Gate, which this benchmark never exercises), and absolute rates (the bare-API arm
+has no system prompt, unlike July's CLI).
