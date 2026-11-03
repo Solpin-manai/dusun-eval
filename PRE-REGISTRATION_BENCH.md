@@ -343,3 +343,49 @@ with the correctness axis promoted to co-primary given this signal.
 ### Threats specific to this run
 Mixed/hand grading (Claude grading Claude, blind but not independent); hourly-rate-limit truncation;
 single run per item; adapter-inflated abstention (absolute rates not leaderboard-comparable).
+
+---
+## POWER RUN 2 (API) -- registered 2026-11-03, BEFORE its first measured row
+
+**Why a second run.** The July power run was truncated at n=139 by the subscription's hourly
+limit; its own record says what settles H1: the full n>=200, a uniform grader, correctness as a
+co-primary. This run does exactly that, on the Anthropic Messages API, paid from the
+organisation's promotional API credit (USD 188.71, expiring 2026-11-11). Owner's go: 2026-11-03.
+
+**Items (fixed).** All 200 SimpleQA items this repo already holds: the 50 `sqa` items of
+`bench_bank.jsonl` (pilot) + the 150 of `bench_bank_pow.jsonl`. No overlap (checked). Every item
+is run FRESH on the API in both arms; no July row is pooled into this verdict (July rows are
+reported beside it, not inside it). Smoke rows (`out/smoke_api.jsonl`, ledgers `out/api_usage_ledger_smoke*.jsonl`) are excluded. Measured smoke cost: USD 0.12 per item, so 200 items are about USD 24.
+
+**Arms (paired, same model).** `bare`: one Messages call to `claude-opus-4-8`, no system prompt,
+max_tokens 2048, the item text unchanged (it carries the same FINAL adapter). `dusun`: the real
+engine, `dusun_engine.py --api --model claude-opus-4-8 --n 3` at the commit that adds the v0.25
+API patch (no model fallback; usage ledger; retries on overload; `DUSUN_API_CLI_PARITY=1`, so the API applies the CLI backend's output limits: the arbiter capped at its size + 2500 tokens, every other role effectively uncapped. Without it the API cut the adversary at 600 tokens on both smoke items, measured 2026-11-03). Same item order, run
+`bench_runner_api.py`, 3 items in parallel.
+
+**Grading (fixed).** Extraction as in the setup above (dusun FINAL only inside the ARBITER
+section; no FINAL = NOT_ATTEMPTED). Judge: `claude-opus-5-5` via the API, blind (sees question,
+gold, prediction only; rows shuffled with seed 20261103), SimpleQA rubric, one word. Validation:
+30 randomly drawn attempted judgments re-checked by hand, blind to arm; more than 3
+disagreements -> every attempted answer is hand-graded and the hand grade is primary. Both
+grades are reported either way.
+
+**Hypotheses and tests (fixed).**
+- **H1a (co-primary, hallucination):** dusun has fewer INCORRECT than bare. Two-sided exact
+  McNemar on the paired INCORRECT indicator.
+- **H1b (co-primary, correctness):** dusun has more CORRECT than bare. Two-sided exact McNemar on
+  the paired CORRECT indicator.
+- Holm correction across the two co-primaries at family alpha 0.05. Reported: both raw p, both
+  Holm-adjusted p, discordant counts, abstention counts per arm.
+- **Availability:** an engine run without an arbiter answer counts as NOT_ATTEMPTED and is also
+  reported separately. If fewer than 80% of dusun runs complete, the verdict is INCONCLUSIVE.
+
+**Spend and stopping (fixed).** Spend cap USD 150 by the runner's own token ledger (list prices of
+`claude-opus-4-8`). If the cap stops the run before 200, the verdict is computed ONCE at the n
+reached, labelled truncated, with n stated. There is no interim look at outcomes: the runner
+prints status and spend only, and grading starts after the run ends.
+
+**Threats named now.** The July arms ran through Claude Code's headless CLI (its own system
+prompt and defaults); this run uses the bare API with no system prompt, so absolute rates are not
+comparable to July, only the paired delta is. Opus 4.8 on the API runs without thinking unless
+asked; both arms get the same setting. One run per item per arm. The judge is a Claude model.
