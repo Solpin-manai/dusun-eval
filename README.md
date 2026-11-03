@@ -4,6 +4,8 @@ Evaluation harness and records for **TAHKIK / DUSUN**, a gated multi-perspective
 
 ## Start here
 
+- **Latest and definitive: Power Run 2 (2026-11-03)**, the last two sections of `PRE-REGISTRATION_BENCH.md`. The full pre-registered n=200 SimpleQA on the API, bare vs engine on the same model, blind Opus 5.5 judge validated 30/30 by hand: no effect. INCORRECT 11 vs 11 (p=1.00), CORRECT 45 vs 42 (p=0.71), engine availability 100%, USD 23.19. The earlier directional results below did not reproduce. Data: `out/bench_raw_api.jsonl`, `out/bench_graded_api.jsonl`; code: `bench_runner_api.py`, `bench_grade_api.py`.
+
 - `PRE-REGISTRATION_BENCH.md` — the paired benchmark of the real engine against bare Opus on the same model and items (AIME 2024/2025 math, SimpleQA factuality). Setup, then full results: 110 items, 400 rows, 0 run failures; SimpleQA hallucination 12% engine vs 18% bare at n=50 (McNemar p=0.51, directional, not significant); AIME within noise as predicted; the pooled n=139 power run and why it stopped; the blind-judge failure that hid 15 hallucinations and the hand re-grade that followed.
 - `out/bench_summary_hand.json`, `out/pow_pooled_grades.json` — graded results. Original judge outputs are kept beside the corrected ones.
 - `bench_runner.py`, `bench_grade.py`, `bench_bank.py` — runner, grader and bank builder. Items come from public benchmark releases (SimpleQA, AIME via Hugging Face); absolute scores are not comparable to leaderboards, only the paired deltas are interpreted.
