@@ -174,7 +174,7 @@ def cmd_score():
         t = r["text"]
         arb = section(t, "-- ARBITER", "-- MECHANICAL GATE")
         gate = section(t, "-- MECHANICAL GATE")
-        pre = section(t, "-- PRESUPPOSITION PRE-PASS", "--")
+        pre = section(t, "-- PRESUPPOSITION PRE-PASS", "=" * 20)   # fixed 11-03: "--" ended the section at its own header
         s = {"q": r["q"], "arm": r["arm"], "k": r["k"],
              "arbiter_present": bool(arb.strip()),
              "l1_flag": "[FLAG] REFGATE L1" in gate,

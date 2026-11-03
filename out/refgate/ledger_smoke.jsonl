@@ -1,0 +1,11 @@
+{"t": 1793700230.808078, "model": "claude-opus-4-8", "in": 162, "out": 4, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793700233.4981673, "model": "claude-opus-4-8", "in": 1023, "out": 237, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793700242.330819, "model": "claude-opus-4-8", "in": 2100, "out": 452, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793700250.660155, "model": "claude-opus-4-8", "in": 2104, "out": 420, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793700253.7361817, "model": "claude-opus-4-8", "in": 2100, "out": 184, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793700261.0510356, "model": "claude-opus-4-8", "in": 1107, "out": 354, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793700268.11574, "model": "claude-opus-4-8", "in": 1779, "out": 446, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793700274.3143861, "model": "claude-opus-4-8", "in": 1767, "out": 370, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793700291.1592715, "model": "claude-opus-4-8", "in": 2113, "out": 941, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793700326.154149, "model": "claude-opus-4-8", "in": 4671, "out": 1466, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}
+{"t": 1793700329.9769847, "model": "claude-opus-4-8", "in": 2629, "out": 158, "cr": 0, "cw": 0, "stop": "end_turn", "src": "engine"}

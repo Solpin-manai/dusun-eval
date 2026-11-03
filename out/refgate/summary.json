@@ -1,0 +1,55 @@
+{
+ "cells": {
+  "Q3/baseline": {
+   "n": 5,
+   "PREMISE": 5,
+   "l1_flag": 0,
+   "auditor_failed": 0,
+   "unobserved_marked": 0,
+   "arbiter_present": 5
+  },
+  "Q2/treatment": {
+   "n": 5,
+   "CONSISTENT": 5,
+   "l1_flag": 0,
+   "auditor_failed": 0,
+   "unobserved_marked": 0,
+   "arbiter_present": 5
+  },
+  "Q1/baseline": {
+   "n": 5,
+   "NEITHER": 1,
+   "l1_flag": 0,
+   "auditor_failed": 0,
+   "unobserved_marked": 0,
+   "arbiter_present": 5,
+   "CAUGHT": 4
+  },
+  "Q1/treatment": {
+   "n": 5,
+   "CAUGHT": 5,
+   "l1_flag": 0,
+   "auditor_failed": 0,
+   "unobserved_marked": 0,
+   "arbiter_present": 5
+  },
+  "Q2/baseline": {
+   "n": 5,
+   "CONSISTENT": 5,
+   "l1_flag": 0,
+   "auditor_failed": 0,
+   "unobserved_marked": 0,
+   "arbiter_present": 5
+  },
+  "Q3/treatment": {
+   "n": 5,
+   "PREMISE": 5,
+   "l1_flag": 0,
+   "auditor_failed": 0,
+   "unobserved_marked": 0,
+   "arbiter_present": 5
+  }
+ },
+ "verdict": "NOT SUPPORTED: NO HEADROOM (the gate-off engine already did not accept the false premise)",
+ "spent_usd": 6.22
+}
